@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemysław</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
+<h3 align="center">Web developer</h3>
 
 - 🌱 I’m currently learning **React, Node.js, JS**
 
