@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **przemyslawtrabuc@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Currently working at: Nexi Digital Polska</h3>
 <p align="left">
 </p>
 
