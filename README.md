@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">Junior developer currently works in Angular</h3>
+<h3 align="center">Junior developer currently works with Angular</h3>
 
 - 🌱 I’m currently learning **Angular, React**
 
